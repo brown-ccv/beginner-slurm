@@ -4,14 +4,16 @@
 
 ##  
 
+@
 This workshop is designed to be run on Oscar, Brown's computing cluster.  
-
+<p>
 The exercises can be found at 
-
+<p>
 https://github.com/brown-ccv/beginner-slurm
 
+<p>
 The workshop presentation slides can be viewed at
-
+<p>
 https://gitpitch.com/brown-ccv/beginner-slurm
 
 ---
@@ -42,10 +44,8 @@ don't run Matlab on a login node
 
 ### What is difficult about working with slurm?
 
-@snap[text-left text-06]
 - You have to decide what resources your program will need before your program starts
 - You have to know a little about your program and a little about the machine you are running on
-@snapend
 
 ---
 ### SLURM 
@@ -76,9 +76,11 @@ To see all jobs in your condo
 
 ### A Job
 
+@snap[text-left text-06]
 The resources you are using and the code you are running.
 
 That together is a 'job'
+@snapend
 
 ---
 
