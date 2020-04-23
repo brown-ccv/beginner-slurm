@@ -26,27 +26,24 @@ Oscar is Brown's supercomputer
 
 ---
 
-## Key points to remember
+### Key points to remember
 
 - login vs. compute node
 
-
-+++
 login nodes are for editing files, compiling, moving files, changing permissions
 For any computationally intensive work, use a compute node
 
-+++
 don't run Matlab on a login node
 
 ---
 
-## What is difficult about working with slurm?
+### What is difficult about working with slurm?
 
 - You have to decide what resources your program will need before your program starts
 - You have to know a little about your program and a little about the machine you are running on
 
 ---
-## SLURM 
+### SLURM 
 
 Simple Utility for Resource Management
 
@@ -72,7 +69,7 @@ To see all jobs in your condo
 
 ---
 
-## A Job
+### A Job
 
 The resources you are using and the code you are running.
 
@@ -80,7 +77,7 @@ That together is a 'job'
 
 ---
 
-## My first batch script
+### My first batch script
 
 ```
   sbatch myscript.sh
@@ -116,7 +113,7 @@ Cancel the job that is using two cores.
 
 ---
 
-## What goes into a batch script
+### What goes into a batch script
 
 A batch script is list of instructions for slurm.  
 
@@ -138,7 +135,7 @@ hello
 
 ```
 
-## What resources should I ask for?
+### What resources should I ask for?
 
 In general, the better your estimate of your resource requirements the less time you will spend in the queue. But, you always want to overestimate your needs.
 
@@ -167,7 +164,7 @@ For memory, this is some trial an error.  You can ask for a lot, then message yo
 
 ---
 
-## What about if I need to interact with my program?
+### What about if I need to interact with my program?
 
 You can use an *interactive* job
 
