@@ -28,9 +28,10 @@ Oscar is Brown's supercomputer
 
 ### Key points to remember
 
-@ul
+
 - login vs. compute node
 
+@ul
 login nodes are for editing files, compiling, moving files, changing permissions
 For any computationally intensive work, use a compute node
 
@@ -41,8 +42,10 @@ don't run Matlab on a login node
 
 ### What is difficult about working with slurm?
 
+@snap[text-left text-06]
 - You have to decide what resources your program will need before your program starts
 - You have to know a little about your program and a little about the machine you are running on
+@snapend
 
 ---
 ### SLURM 
@@ -85,8 +88,10 @@ That together is a 'job'
   sbatch myscript.sh
 ```
 
+@ul
 Q. What message is printed to the screen?
 Q. What files are produced?
+@ulend
 
 ## Job ID
 
