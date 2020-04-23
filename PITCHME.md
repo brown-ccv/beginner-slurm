@@ -52,7 +52,7 @@ To see all jobs in your condo
 
 ## A Job
 
-The resources you are using and the code you are running. 
+@box[text-orange span-80 fragment](The resources you are using and the code you are running.)
 
 That together is a 'job'
 
