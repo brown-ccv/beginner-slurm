@@ -28,12 +28,14 @@ Oscar is Brown's supercomputer
 
 ### Key points to remember
 
+@ul
 - login vs. compute node
 
 login nodes are for editing files, compiling, moving files, changing permissions
 For any computationally intensive work, use a compute node
 
 don't run Matlab on a login node
+@ulend
 
 ---
 
