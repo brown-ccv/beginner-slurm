@@ -10,16 +10,16 @@ The exercises can be found at
 
 [github.com/brown-ccv/beginner-slurm](https://github.com/brown-ccv/beginner-slurm)
 
-You can attend this workshop in person, for upcoming CCV events see:
+You can attend this workshop in person. To find upcoming CCV events visit:
 
 [events.brown.edu/ccv](https://events.brown.edu/ccv/view/month)
 
-You are also welcome follow the slides and do the exercises on your own.
+You are also welcome follow the slides and do the exercises on your own. If you find any problems with the exercises, please create an issue on this repository or email hpc@brown.edu.
 
 ## Important concept: Login nodes vs. compute nodes
 
 Login nodes are for editing files, compiling, moving files, changing permission, submitting jobs. Compute nodes are where you should do your intensive computing.  To use the compute nodes you are going to use Slurm. 
-*Do not run Matlab on the login nodes*
+*Do not run Matlab on the login nodes!*
 
 # Exercises
 
