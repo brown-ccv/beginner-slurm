@@ -49,5 +49,5 @@ cp ~/batch_scripts/serial.sh .
 
 ````
 
-[Checkout other workshops offered by the CCV HPC team](https://brownhpc.github.io/){:target="_blank"}
+Checkout other <a href="https://brownhpc.github.io/" target="_blank">workshops</a> offered by the CCV HPC team
 
