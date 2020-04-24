@@ -6,5 +6,5 @@
 #SBATCH -o first-%j.out
 #SBATCH -e first-%j.err
 
-hello "$USER". Congratulations on running your first batch script
+echo "hello $USER. Congratulations on running your first batch script"
 
