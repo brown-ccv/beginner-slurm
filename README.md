@@ -49,5 +49,6 @@ cp ~/batch_scripts/serial.sh .
 
 ````
 
-Checkout other <a href="https://brownhpc.github.io/" target="_blank">workshops</a> offered by the CCV HPC team
+Checkout other [worskhops](https://brownhpc.github.io/) offered by the CCV HPC team.
 
+To sign up for live events, go to the [CCV Events Calendar](https://events.brown.edu/ccv/view/all)
