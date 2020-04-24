@@ -22,7 +22,7 @@ Login nodes are for editing files, compiling, moving files, changing permission,
 
 # Exercises
 
-To copy the excersises:
+To copy the exercise materials:
 
 1. Login into Oscar
 2. Clone this repostiory into your home directory
@@ -32,7 +32,6 @@ To copy the excersises:
 git clone https://gitpitch.com/brown-ccv/beginner-slurm
 cd beginner-slurm
 ````
-
 
 ## Example Slurm batch scripts for future reference
 
