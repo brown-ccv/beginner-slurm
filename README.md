@@ -16,7 +16,7 @@ You can attend this workshop in person, for upcoming CCV events see:
 
 You are also welcome follow the slides and do the exercises on your own.
 
-##Important concept: Login nodes vs. compute nodes
+## Important concept: Login nodes vs. compute nodes
 
 Login nodes are for editing files, compiling, moving files, changing permission, submitting jobs. Compute nodes are where you should do your intensive computing.  To on the compute nodes you are going to use Slurm. 
 
