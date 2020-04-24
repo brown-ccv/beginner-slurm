@@ -30,7 +30,7 @@ To copy the exercise materials:
 3. cd into the `beginner-slurm` directory
 
 ````
-git clone https://gitpitch.com/brown-ccv/beginner-slurm
+git clone https://github.com/brown-ccv/beginner-slurm
 cd beginner-slurm
 ````
 
