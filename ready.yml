@@ -1,0 +1,8 @@
+repo:             beginner-slurm
+site_name:        A Beginner's guide to using Slurm on Oscar
+authors:      
+  - name: Helen Kershaw
+    github_user: hkershaw-brown
+site_description: A primer on submitting jobs to the job scheduler on Oscar. Some basic familiarity with Unix/Linux systems is assumed. Participants will learn the basics of Slurm for resource allocation, how to submit jobs on Oscar, and how to check for common errors.
+docs_url:         https://github.com/brown-ccv/beginner-slurm
+type:             workshop    # required. choose one of [software, tutorial, workshop, documentation]
